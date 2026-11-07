@@ -1,7 +1,7 @@
 
 # Rameeza Sabir
 
-### Computer Science Student | Aspiring Software Developer
+### Computer Science Student 
 
 ---
 
@@ -31,10 +31,6 @@ I enjoy learning new concepts and developing my technical skills through practic
 - Robotics
 - Problem Solving
 
-## Career Goals
 
-My goal is to strengthen my programming knowledge, gain practical experience, and develop useful software solutions.
-
----
 
 *Thank you for visiting my profile!*
